@@ -61,20 +61,20 @@ SkillUp-Responsive-Website/
 
 ---
 
-🔐 Security Highlights
-Passwords hashed using bcrypt before storing
+### 🔐 Security Highlights
+- Passwords hashed using bcrypt before storing
 
-Email and username uniqueness enforced at DB level
+- Email and username uniqueness enforced at DB level
 
-Error-handling for registration and login flows
+- Error-handling for registration and login flows
 
-Environment variables protect sensitive config
+- Environment variables protect sensitive config
 
-👩‍💻 Author
+### 👩‍💻 Author
 Ananya Khare
 🔗 GitHub: @Ananya-Khare555
 
-📄 License
+### 📄 License
 This project is open-source and available under the MIT License.
 
 Website Link - https://skillup-m4sh.onrender.com/
